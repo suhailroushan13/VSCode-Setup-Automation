@@ -1,0 +1,12 @@
+code --install-extension christian-kohler.path-intellisense
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension ecmel.vscode-html-css
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension mohsen1.prettify-json
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ritwickdey.LiveServer
+code --install-extension vscode-icons-team.vscode-icons
